@@ -50,7 +50,7 @@
     "express-flash": "~0.0.2",
     "express-session": "~1.15.6",
     "express-state": "^2.0.0",
-    "express-validator": "~5.0.0",
+    "express-validator": "~6.0.0",
     "fetchr": "^0.5.12",
     "font-awesome": "~4.3.0",
     "forever": "~2.0.0",
