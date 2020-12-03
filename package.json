@@ -87,7 +87,7 @@
     "passport-local": "^1.0.0",
     "passport-oauth": "^1.0.0",
     "passport-twitter": "^1.0.3",
-    "pmx": "^0.3.16",
+    "pmx": "^0.6.8",
     "ramda": "~0.10.0",
     "react": "^0.14.0",
     "react-bootstrap": "^0.23.7",
