@@ -96,7 +96,7 @@
     "react-vimeo": "^0.0.3",
     "request": "~2.88.0",
     "rx": "^2.5.3",
-    "sanitize-html": "~2.0.0",
+    "sanitize-html": "~2.3.2",
     "source-map-support": "^0.3.2",
     "thundercats": "^2.1.0",
     "thundercats-react": "^0.1.0",
