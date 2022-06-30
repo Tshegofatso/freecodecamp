@@ -81,7 +81,7 @@
     "nodemailer": "~6.6.1",
     "object.assign": "^3.0.0",
     "passport-facebook": "^2.0.0",
-    "passport-github": "^0.1.5",
+    "passport-github": "^1.0.0",
     "passport-google-oauth2": "^0.1.6",
     "passport-linkedin-oauth2": "^1.2.1",
     "passport-local": "^1.0.0",
