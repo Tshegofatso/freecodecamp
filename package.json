@@ -64,7 +64,7 @@
     "jade": "~1.8.0",
     "json-loader": "^0.5.2",
     "less": "~2.1.0",
-    "less-middleware": "~2.0.1",
+    "less-middleware": "~2.2.0",
     "lodash": "^4.17.20",
     "loopback": "https://github.com/FreeCodeCamp/loopback.git#fix/no-password",
     "loopback-boot": "^2.8.0",
