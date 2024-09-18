@@ -46,7 +46,7 @@
     "debug": "~2.6.9",
     "dotenv": "~0.4.0",
     "errorhandler": "~1.4.3",
-    "express": "~4.19.2",
+    "express": "~4.20.0",
     "express-flash": "~0.0.2",
     "express-session": "~1.15.6",
     "express-state": "^2.0.0",
