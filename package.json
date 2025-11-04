@@ -73,7 +73,7 @@
     "lusca": "~1.0.2",
     "method-override": "~2.3.0",
     "moment": "~2.19.3",
-    "mongodb": "^3.1.13",
+    "mongodb": "^6.20.0",
     "morgan": "~1.9.1",
     "node-libs-browser": "^0.5.2",
     "node-slack": "0.0.7",
